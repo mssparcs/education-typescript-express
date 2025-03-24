@@ -5,7 +5,7 @@
 
 웹사이트 상단의 Localhost 버튼 클릭 후, **[Short URL(URL 단축 서비스)](https://edu.techceo.kr/short-url)** 와 **[Live Clock(서버 시간을 알려주는 서비스)](https://edu.techceo.kr/live-clock)** 이 정상 작동하도록 **백엔드를 구축**하는 것이 학습 목표입니다.
 
-`8.practice/backend/src/routes/live-clock.ts`, `8.practice/backend/src/routes/live-clock.ts` 의 **코드**를 수정해주세요.
+`8.practice/backend/src/routes/short-url.ts`, `8.practice/backend/src/routes/live-clock.ts` 의 **코드**를 수정해주세요.
 
 **[CRUD TEST](https://edu.techceo.kr/crud-test)** 에서 벡엔드 서버로 API 요청이 가능하며, 자세한 설명은 **[ppt](/slides.pdf)** 를 참조해주세요.
 
